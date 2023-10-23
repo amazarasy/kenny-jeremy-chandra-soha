@@ -1,0 +1,5 @@
+body {
+    background-image: url('c:\Users\62812\Pictures\gambar.jpg.png'); /* Ganti 'nama-gambar.jpg' dengan nama gambar Anda */
+    background-size: cover; /* Untuk mengisi seluruh latar belakang */
+    background-repeat: no-repeat; /* Agar gambar latar belakang tidak diulang */
+}
